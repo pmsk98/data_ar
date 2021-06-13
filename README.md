@@ -17,6 +17,11 @@
 #### Requirements
 
 * python >= 3.6.9
+* pandas
+* numpy
+* scikit-learn
+* pyupbit
+* json
 
 #### How to install
 
@@ -33,6 +38,7 @@ pip3 install -r requirements.txt
 ---
 
 ### How to use
+
 
 ---
 
